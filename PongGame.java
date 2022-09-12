@@ -1,4 +1,4 @@
-package REPO-PROJECT.Pong-Game;
+package javaProject.PongGame;
 
 public class PongGame {
 
